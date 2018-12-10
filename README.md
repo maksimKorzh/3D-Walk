@@ -17,6 +17,6 @@ Simple ray-casting pseudo 3D engine (linux port of CommandLineFPS by javidx9 aka
 
 [OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)            -    YouTube channel
 
-[Video tutorial](https://www.youtube.com/watch?v=xW8skO7MFYw)                       -    by OneLoneCoder
+[Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)                       -    video tutorial by OneLoneCoder
 
 [CommandLineFPS](https://github.com/maksimKorzh/3D-Walk/blob/master/3D-Walk.gif)    -    original MS Windows version
