@@ -15,6 +15,9 @@ Simple ray-casting pseudo 3D engine (linux port of CommandLineFPS by javidx9 aka
 
 # Credits
 
+[![Build Status](https://travis-ci.org/kubernetes-client/python.svg?branch=master)](https://travis-ci.org/kubernetes-client/python)
+[![PyPI version](https://badge.fury.io/py/kubernetes.svg)](https://badge.fury.io/py/kubernetes)
+[![codecov](https://codecov.io/gh/kubernetes-client/python/branch/master/graph/badge.svg)](https://codecov.io/gh/kubernetes-client/python "Non-generated packages only")
 [![OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)]    -   OneLoneCoder YouTube channel
 
 [![CommandLineFPS](https://github.com/OneLoneCoder/CommandLineFPS)]   -   original MS Windows version
