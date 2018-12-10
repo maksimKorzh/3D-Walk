@@ -15,5 +15,5 @@ Simple ray-casting pseudo 3D engine (linux port of CommandLineFPS by javidx9 aka
 
 # Credits
 
-    ![3D-Walk](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)    -   OneLoneCoder YouTube channel
-    ![CommandLineFPS](https://github.com/OneLoneCoder/CommandLineFPS)   -   original MS Windows version
+![3D-Walk](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)    -   OneLoneCoder YouTube channel
+![CommandLineFPS](https://github.com/OneLoneCoder/CommandLineFPS)   -   original MS Windows version
